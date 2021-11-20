@@ -1,6 +1,6 @@
 # PyCharmAcademy
 
-### Duplicate File Handler Project
+### 1. Duplicate File Handler Project
 Code: [duplicate_file_handler.py](Duplicate_file_Handler/duplicate_file_handler.py)
 
 Description:
