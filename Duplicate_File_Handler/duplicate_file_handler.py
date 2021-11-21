@@ -16,7 +16,6 @@
 #
 # Menu
 # - Class contains methods to display program menus
-#
 #######################
 import os
 import sys
