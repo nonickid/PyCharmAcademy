@@ -27,3 +27,15 @@ Project description:
 
 Project description:
 > Have you ever wanted to code a game where the computer is your enemy? Well, this little project allows you to do just that. Take turns playing classic dominoes against your computer in a race to victory. Learn, how artificial intelligence can make use of simple statistics to make educated decisions. This project is all about basic concepts, put them to practice by making a fun little game.
+
+
+#### [Arithmetic Exam Application](Arithmetic_Exam_Application/arithmetic.py)
+
+Project description:
+> In this project, you will learn how to write an application that can facilitate solving arithmetic operations in a quick manner. The application will generate a mathematical expression for a user to solve. Implement various levels of difficulty and let the application save the results and show the progress of learning.
+
+
+#### [Markdown Editor](Markdown_Editor/editor.py)
+
+Project description:
+> Markdown is a special plain text formatting language that is extremely popular among developers. It is used in documents, research articles, Github README files, and other things. In this project, you will write an editor that will be able to recognize several tags, structures, and save your results to a file.
