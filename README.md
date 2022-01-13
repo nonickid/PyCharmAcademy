@@ -21,3 +21,9 @@ Project description:
 
 Project description:
 > The International Union Against Idleness (IUAI) announced a competition for an application that would motivate users. There are prizes involved. Since you like competing and know a little bit about programming, you asked your friend to prepare an interesting algorithm for a quick buck. Unfortunately, you weren't clear enough, and instead of a ready-made program, a friend prepared a flowchart of Honest Calculator. You will have to put some effort into assembling it.
+
+
+#### [Dominoes](Dominoes/dominoes.py)
+
+Project description:
+> Have you ever wanted to code a game where the computer is your enemy? Well, this little project allows you to do just that. Take turns playing classic dominoes against your computer in a race to victory. Learn, how artificial intelligence can make use of simple statistics to make educated decisions. This project is all about basic concepts, put them to practice by making a fun little game.
