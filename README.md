@@ -44,3 +44,8 @@ Project description:
 
 Project description:
 > You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.
+
+#### [Currency Converter](Currency_Converter/cconverter.py)
+
+Project description:
+> Want to convert one currency to another? You can go to your bank website and do the math by yourself. Or you can write a program to do it quickly and efficiently! The Currency Converter is a simple console program that calculates the amount of money you get by converting one currency to another.
