@@ -39,3 +39,8 @@ Project description:
 
 Project description:
 > Markdown is a special plain text formatting language that is extremely popular among developers. It is used in documents, research articles, Github README files, and other things. In this project, you will write an editor that will be able to recognize several tags, structures, and save your results to a file.
+
+#### [Web Scraper](Web_Scraper/scraper.py)
+
+Project description:
+> You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.
