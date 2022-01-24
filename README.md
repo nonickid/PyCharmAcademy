@@ -49,3 +49,8 @@ Project description:
 
 Project description:
 > Want to convert one currency to another? You can go to your bank website and do the math by yourself. Or you can write a program to do it quickly and efficiently! The Currency Converter is a simple console program that calculates the amount of money you get by converting one currency to another.
+
+#### [Knight's Tour Puzzle](Knights_Tour_Puzzle/game.py)
+
+Project description:
+> The Knight’s Tour is a fun puzzle where you move the knight so that it visits every square of the chessboard once. The rules are simple and fun, but the game is really hard to master. Let’s make a program to find a solution!
